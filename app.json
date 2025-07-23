@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9e8337e8-dc91-4b4a-adb5-2560674ab7c2"
+      }
+    },
+    "owner": "adamrychtecky"
   }
 }
